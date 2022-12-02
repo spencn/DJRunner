@@ -1,0 +1,4 @@
+repository "DjRunnerDemo@Spenc_n@cloud"
+  path "/"
+    br "/main"
+    co "/main"
